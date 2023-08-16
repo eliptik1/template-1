@@ -1,5 +1,21 @@
 # My Project
 
+## Installation
+
+1. Install dependencies:
+
+   ```
+   npm install
+   ```
+
+2. Run webpack:
+
+   ```
+   npm run watch
+   ```
+   
+3. Update the name in package.json file.
+
 ## Technologies Used
 
 ## Features
